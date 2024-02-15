@@ -17,7 +17,7 @@ Level Up Bank, a fictional fintech startup, required a more cost-effective, scal
 
 ### Technical Implementation
 
-- Configured an S3 bucket for static website hosting and uploaded the `index.html` file.
+- Configured an S3 bucket for static website hosting.
 - Enabled public access and set up the bucket policy for website hosting.
 - Implemented an optional advanced setup using AWS CloudFront to enhance global performance through edge caching and ensured secure access via HTTPS.
 
